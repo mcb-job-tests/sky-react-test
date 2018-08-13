@@ -1511,7 +1511,7 @@ Example package.json:
         "statements": 90
       }
     },
-    "coverageReporters": ["text"],
+    "coverageReporters": [searchText],
     "snapshotSerializers": ["my-serializer-module"]
   }
 }
